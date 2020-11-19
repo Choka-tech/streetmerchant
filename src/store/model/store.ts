@@ -77,6 +77,7 @@ export type Model =
 	| 'ichill x2'
 	| 'ichill x3'
 	| 'ichill x4'
+	| 'ichill frostbite'
 	| 'nitro oc se'
 	| 'nitro oc'
 	| 'phantom gs'
